@@ -1,0 +1,21 @@
+.p-tieredmenu {
+    padding: 0.25rem 0;
+    background: #ffffff;
+    color: #495057;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    width: 15rem;
+    height: 35.5rem;
+}
+
+.p-tieredmenu .p-menuitem {
+    position: relative;
+    margin-top: 2rem;
+    margin-left: 1rem;
+}
+
+.grid {
+    margin-right: 0;
+    margin-left: 0;
+    margin-top: 0;
+}
